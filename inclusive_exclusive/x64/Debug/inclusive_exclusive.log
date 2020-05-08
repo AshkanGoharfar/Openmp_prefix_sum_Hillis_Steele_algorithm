@@ -1,0 +1,11 @@
+﻿  inclusive_exclusive.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\ashkan\desktop\term 8\multi core programming\hw\lab4\prefix sum\inclusive_exclusive\inclusive_exclusive\inclusive_exclusive.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashkan\desktop\term 8\multi core programming\hw\lab4\prefix sum\inclusive_exclusive\inclusive_exclusive\inclusive_exclusive.cpp(89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ashkan\desktop\term 8\multi core programming\hw\lab4\prefix sum\inclusive_exclusive\inclusive_exclusive\inclusive_exclusive.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashkan\desktop\term 8\multi core programming\hw\lab4\prefix sum\inclusive_exclusive\inclusive_exclusive\inclusive_exclusive.cpp(99): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\ashkan\desktop\term 8\multi core programming\hw\lab4\prefix sum\inclusive_exclusive\inclusive_exclusive\inclusive_exclusive.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashkan\desktop\term 8\multi core programming\hw\lab4\prefix sum\inclusive_exclusive\inclusive_exclusive\inclusive_exclusive.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  Change configuration to Release for a fast execution.
+  Enable nested parallelism if you wish to have parallel region within parallel region.
+  inclusive_exclusive.vcxproj -> C:\Users\Ashkan\Desktop\Term 8\Multi core programming\HW\Lab4\Prefix sum\inclusive_exclusive\x64\Debug\inclusive_exclusive.exe
